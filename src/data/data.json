@@ -1,0 +1,194 @@
+{
+  "personal": {
+    "name": "Abdullah Javed",
+    "title": "AI & ML Enthusiast | Flutter & React Developer",
+    "subtitle": "Building smart, useful, and impactful tech solutions that make a real difference",
+    "bio": "Hi, I'm Abdullah Javed 👋 I'm a final-year Computer Science student at COMSATS University Islamabad, Wah Campus. I love working on machine learning, computer vision, and intelligent applications, and I'm also passionate about deep learning, NLP, and full-stack development. My goal is simple: to build smart, useful, and impactful tech solutions that make a real difference. 🚀",
+    "image": "/images/IMG_E2103.JPG",
+    "resume": "/documents/Abdullah_Javed_CV.pdf",
+    "location": "15-A, PM Colony, Wah Cantt, Pakistan",
+    "email": "abdjaved634@gmail.com",
+    "phone": "+92 312570987"
+  },
+  "social": {
+    "github": "https://github.com/abdullahjave",
+    "linkedin": "https://www.linkedin.com/in/abdullah-javed-a1b316310/",
+    "instagram": "https://www.instagram.com/abdullah__javed__"
+  },
+  "certificates": [
+    {
+      "id": 1,
+      "title": "Neural Networks and Deep Learning",
+      "issuer": "Coursera",
+      "date": "2024",
+      "description": "Comprehensive course covering artificial neural networks, deep learning fundamentals, performance tuning, supervised learning, computer vision, machine learning, and AI concepts using Python programming.",
+      "image": "/images/certificates/neural-networks-deep-learning.jpg",
+      "credentialUrl": "https://www.coursera.org/account/accomplishments/verify/D8RO9JK9V55L",
+      "skills": ["Artificial Neural Networks", "Deep Learning", "Performance Tuning", "Supervised Learning", "Computer Vision", "Machine Learning", "Artificial Intelligence", "Python Programming"]
+    },
+    {
+      "id": 2,
+      "title": "Learn Modern Javascript by Coding a Snake Game",
+      "issuer": "Udemy",
+      "date": "2024", 
+      "description": "Practical JavaScript course focused on modern JavaScript concepts and best practices while building an interactive snake game project.",
+      "image": "/images/certificates/modern-javascript-snake-game.jpg",
+      "credentialUrl": "https://www.udemy.com/certificate/UC-bc05bb68-1693-4748-96b0-e7703188fd10/",
+      "skills": ["Modern JavaScript", "Game Development", "DOM Manipulation", "JavaScript ES6+", "Web Development"]
+    }
+  ],
+  "skills": [
+    {
+      "name": "React.js",
+      "level": 90,
+      "icon": "⚛️",
+      "category": "Frontend"
+    },
+    {
+      "name": "Flutter",
+      "level": 88,
+      "icon": "🦋",
+      "category": "Frontend"
+    },
+    {
+      "name": "JavaScript",
+      "level": 95,
+      "icon": "🟨",
+      "category": "Frontend"
+    },
+    {
+      "name": "Tailwind CSS",
+      "level": 92,
+      "icon": "🌊",
+      "category": "Frontend"
+    },
+    {
+      "name": "Node.js",
+      "level": 85,
+      "icon": "🟢",
+      "category": "Backend"
+    },
+    {
+      "name": "Python",
+      "level": 80,
+      "icon": "🔸",
+      "category": "Backend"
+    },
+    {
+      "name": "Flask",
+      "level": 83,
+      "icon": "🔥",
+      "category": "Backend"
+    },
+    {
+      "name": "MongoDB",
+      "level": 82,
+      "icon": "🍃",
+      "category": "Database"
+    },
+    {
+      "name": "MySQL",
+      "level": 85,
+      "icon": "🗄️",
+      "category": "Database"
+    },
+    {
+      "name": "Machine Learning",
+      "level": 87,
+      "icon": "🤖",
+      "category": "AI/ML"
+    },
+    {
+      "name": "Computer Vision",
+      "level": 90,
+      "icon": "👁️",
+      "category": "AI/ML"
+    },
+    {
+      "name": "YOLO",
+      "level": 92,
+      "icon": "🎯",
+      "category": "AI/ML"
+    },
+    {
+      "name": "Deep Learning",
+      "level": 85,
+      "icon": "🧠",
+      "category": "AI/ML"
+    },
+    {
+      "name": "Git",
+      "level": 90,
+      "icon": "📋",
+      "category": "Tools"
+    },
+    {
+      "name": "Figma",
+      "level": 70,
+      "icon": "🎨",
+      "category": "Tools"
+    }
+  ],
+  "projects": [
+    {
+      "id": 1,
+      "title": "YOLOv7 GPU Mode",
+      "description": "🚀 High-performance object detection project using YOLOv7 in GPU mode for real-time computer vision applications.",
+      "image": "/images/yolov8.jpg",
+      "technologies": ["Python", "YOLOv7", "OpenCV", "GPU"],
+      "github": "https://github.com/abdullahjave/YOLOv7-in-GPU-Mode",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 2,
+      "title": "Movie Recommendation System",
+      "description": "A machine learning-based movie recommender system that suggests movies based on similarity algorithms and user preferences.",
+      "image": "/images/Movie.png",
+      "technologies": ["Python", "Machine Learning", "Pandas", "Scikit-learn"],
+      "github": "https://github.com/abdullahjave/Movie-Recomendation-System-using-ML",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 3,
+      "title": "SMS Spam Classifier",
+      "description": "📱 A comprehensive ML project that detects spam SMS using Naive Bayes and other algorithms, with an interactive web interface.",
+      "image": "/images/spam massage.png",
+      "technologies": ["Python", "Machine Learning", "NLP", "Flask"],
+      "github": "https://github.com/abdullahjave/SMS-Spam-Classifier",
+      "demo": "",
+      "featured": true
+    },
+    {
+      "id": 4,
+      "title": "BMI Calculator App",
+      "description": "📱 A beautiful and responsive BMI calculator built with Flutter for Android/iOS platforms.",
+      "image": "/images/flutter project.png",
+      "technologies": ["Flutter", "Dart"],
+      "github": "https://github.com/abdullahjave/BMI-Calculator-Flutter",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 5,
+      "title": "Snake Game (Modern JavaScript)",
+      "description": "🎮 A fun snake game built with modern JavaScript concepts for learning purposes.",
+      "image": "/images/snake game.png",
+      "technologies": ["JavaScript", "HTML", "CSS"],
+      "github": "https://github.com/abdullahjave/Snake-game-Modern-JavaScript",
+      "demo": "",
+      "featured": false
+    },
+    {
+      "id": 6,
+      "title": "Data Structures in C++",
+      "description": "📚 A collection of data structure implementations (Stacks, Queues, Linked Lists, Trees, Graphs) in C++.",
+      "image": "https://images.pexels.com/photos/270360/pexels-photo-270360.jpeg?auto=compress&cs=tinysrgb&w=600",
+      "technologies": ["C++", "DSA"],
+      "github": "https://github.com/abdullahjave/Data_Structure_in_C",
+      "demo": "",
+      "featured": false
+    }
+  ]
+}
